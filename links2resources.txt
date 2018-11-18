@@ -3,3 +3,5 @@
 https://git-scm.com/
 https://github.com/github/gitignore
 	to start with ignore temp files "~" and log files generate by Dropbox
+Note to self, "git commit -a" will stages every tracked file.
+
